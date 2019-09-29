@@ -1,5 +1,5 @@
 ---
-title:'bdjhbfdj kfdjkdfjkdl'
+title: bdjhbfdj kfdjkdfjkdl
 ---
 ## Welcome to GitHub Pages
 
